@@ -25,6 +25,8 @@
 ### The customer titled bar chart created in Tableau displays the peak riding hours for bike rides. The x-axis represents the 24 hours of the day while the y-axis shows the count of bike rides during each hour. The bars are colored blue and labeled with the hour of the day making it easy for customers to identify the peak hours for bike rides.
 ![D3-1](https://user-images.githubusercontent.com/118647523/227401846-8728d866-dc53-4e1a-821a-40dc2794ade2.png)
 
+### We can also use a more simplfied tableau visualization to display the rides by gender. Seen below is a pie chart create to display riders by gender which also interactive when scrolled over to show the total numeric value of riders.
+![D3-4](https://user-images.githubusercontent.com/118647523/227403051-34f1e306-823b-4e46-938a-cdaedada1264.png)
 
 
 
