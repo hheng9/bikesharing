@@ -23,5 +23,11 @@
 ![D2-5](https://user-images.githubusercontent.com/118647523/227400370-fa942fb1-e2ae-4092-bc4b-b05887d47dbc.png)
 
 
+![D3-1](https://user-images.githubusercontent.com/118647523/227401846-8728d866-dc53-4e1a-821a-40dc2794ade2.png)
+
+
+
+
+
 https://public.tableau.com/views/Bikesharing_Challenge_16796003468870/BikeSharingSTORY?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
  
