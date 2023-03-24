@@ -19,7 +19,7 @@
 ### To perform the visualization as seen below we slightly modify the trips by weekday for each hour worksheet to display a heat map showcasing trips specified by gender throughout the weekdays along with the hour associated during the time of day.
 ![D2-4](https://user-images.githubusercontent.com/118647523/227399967-98ee3ff5-2b94-42da-8bb3-50c0a9045813.png)
 
-
+ 
 
 
 https://public.tableau.com/views/Bikesharing_Challenge_16796003468870/BikeSharingSTORY?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
