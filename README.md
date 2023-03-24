@@ -30,8 +30,10 @@
 ### We can also use a more simplfied tableau visualization to display the rides by gender. Seen below is a pie chart create to display riders by gender which also interactive when scrolled over to show the total numeric value of riders. We can clearly see from the pie chart that there are more male riders then female and very little unknown riders.
 ![D3-4](https://user-images.githubusercontent.com/118647523/227403051-34f1e306-823b-4e46-938a-cdaedada1264.png)
 
+## Summary 
+Tableau is a powerful data visualization tool that enabled us to create visualizations that help us better understand the patterns and trends in the bike sharing dataset. By following the provided steps we were able to easily generate nine different visualizations. These visualizations enable us to quickly and easily see trends and patterns in the data, such as when bikes are most frequently checked out and returned, how usage patterns vary by gender and user type, and which days of the week are busiest for bike sharing. By leveraging Tableau's powerful data visualization tools we were able to gain deeper insights into the bike sharing data and make more informed decisions based on the results of our analysis.
 
-
+### Below are some additional tableau visualization that can also be used in our analysis to 
 
 
   
