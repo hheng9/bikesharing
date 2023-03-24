@@ -22,7 +22,7 @@
 ### Our next tableau visualization involves creating a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype.
 ![D2-5](https://user-images.githubusercontent.com/118647523/227400370-fa942fb1-e2ae-4092-bc4b-b05887d47dbc.png)
 
-
+### The customer titled bar chart created in Tableau displays the peak riding hours for bike rides. The x-axis represents the 24 hours of the day while the y-axis shows the count of bike rides during each hour. The bars are colored blue and labeled with the hour of the day making it easy for customers to identify the peak hours for bike rides.
 ![D3-1](https://user-images.githubusercontent.com/118647523/227401846-8728d866-dc53-4e1a-821a-40dc2794ade2.png)
 
 
