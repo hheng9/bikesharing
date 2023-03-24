@@ -33,7 +33,7 @@
 ## Summary 
 Tableau is a powerful data visualization tool that enabled us to create visualizations that help us better understand the patterns and trends in the bike sharing dataset. By following the provided steps we were able to easily generate nine different visualizations. These visualizations enable us to quickly and easily see trends and patterns in the data, such as when bikes are most frequently checked out and returned, how usage patterns vary by gender and user type, and which days of the week are busiest for bike sharing. By leveraging Tableau's powerful data visualization tools we were able to gain deeper insights into the bike sharing data and make more informed decisions based on the results of our analysis.
 
-### Below are some additional tableau visualization that can also be used in our analysis to 
+### Below are some additional tableau visualization in a plot map that can also be used in our analysis to compare the top starting location and top ending location by size and counts. 
 ![D3-2](https://user-images.githubusercontent.com/118647523/227404965-50782ee7-53dc-4693-ba37-ab2513405edc.png)
 
 ![D3-3](https://user-images.githubusercontent.com/118647523/227404977-753fe1eb-8b46-42eb-93c5-4041bf474463.png)
