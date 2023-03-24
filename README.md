@@ -37,5 +37,3 @@ Tableau is a powerful data visualization tool that enabled us to create visualiz
 ![D3-2](https://user-images.githubusercontent.com/118647523/227404965-50782ee7-53dc-4693-ba37-ab2513405edc.png)
 
 ![D3-3](https://user-images.githubusercontent.com/118647523/227404977-753fe1eb-8b46-42eb-93c5-4041bf474463.png)
-
-  
